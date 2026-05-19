@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✝ Igreja de Nosso Senhor Jesus Cristo no Mundo
+# Igreja de Nosso Senhor Jesus Cristo no Mundo
 ### Repositório Institucional de Projectos Tecnológicos
 
 **Os Tocoístas — Anciãos Conselheiros da Direcção Central**
@@ -271,13 +271,11 @@ A coordenação entre todos os colaboradores activos dos projectos hospedados ne
 
 <div align="center">
 
-### 💬 Canal de Colaboradores — Tocoistas Tech
+### 💬 Canal de Colaboradores — Transformação Digital
 
-**[👉 Clique aqui para entrar no Canal do WhatsApp](https://wa.me/LINK_DO_CANAL)**
+**[👉 Clique aqui para entrar no Canal do WhatsApp](https://chat.whatsapp.com/JJ3qwGeldBLB0VNfV0x060)**
 
 </div>
-
-> **Substituir o link acima pelo link real do canal de WhatsApp antes de publicar este README.**
 
 Este canal serve para:
 - Anúncios de novos projectos e iniciativas
